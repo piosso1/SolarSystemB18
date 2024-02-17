@@ -5,5 +5,15 @@ public class SolarSystem {
         solar.Stars="100";
         solar.Moon="4";
         solar.Planets="2";
+
+        featureSun xros= new featureSun();
+        xros.Color="pink";
+        xros.temp="23243243243234k";
+        xros.Size="234243432432432424miles";
+
+        planet1 frog=new planet1();
+        frog.color="blue";
+        frog.temp="-123213124k";
+        frog.size="2km";
     }
 }
